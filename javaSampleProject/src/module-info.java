@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author swas
+ *
+ */
+module javaSampleProject {
+}
